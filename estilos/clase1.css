@@ -1,0 +1,166 @@
+.a1{
+	position: absolute;
+  	top: 2%;
+  	left: 1%;
+  	width: 97%; 
+  	height: 110%; 
+	border: 5px solid black; 
+  	border-radius: 4%;
+  	background-image: radial-gradient( circle,  #87CEFA 30%, #1E90FF );
+}
+.a2{
+  	position: absolute;
+  	text-shadow: 2px 3px 1px #6495ED;
+  	top: 6%;
+  	left: 22%;
+ 	height: 10%;
+ 	width: 55%;
+  	font-family:hola, cursive;
+  	font-size: 43px;
+}
+.a3{
+	position: absolute;
+	top: 22%;
+	left: 42%;
+	background-image: url(../fotos/cami.jpeg);
+	width: 13.8%;
+	height: 33%;
+	border: solid black 5px;
+	border-radius: 60%;
+	transition: width 2s, height 2s, transform 2s;
+}
+.a3:hover{
+	position: absolute;
+	top: 22%;
+	left: 42%;
+	background-image: url(../fotos/cami.jpeg);
+	width: 13.8%;
+	height: 35%;
+	border: solid black 5px;
+	border-radius: 60%;
+	transform: rotate(360deg);
+}
+.a4{
+	position: absolute;
+	text-shadow: 2px 3px 1px #6495ED;
+  	top: 30%;
+  	left: 15%;
+  	font-family:hola;
+  	font-size: 60px;
+}
+.a5{
+	position: absolute;
+	text-shadow: 2px 3px 1px #6495ED;
+  	top: 30%;
+  	left: 63%;
+  	font-family: hola;
+  	font-size: 60px;
+}
+.a6{
+  	position: absolute;
+  	top: 60%;
+	left: 10%;
+	width: 17%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.a6:hover{
+  	position: absolute;
+  	top: 60%;
+	left: 10%;
+	width: 20%;
+  	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
+.a7{
+  	position: absolute;
+  	top: 85%;
+	left: 30%;
+	width: 18.3%;
+	height: 13%;
+	font-family:hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.a7:hover{
+  	position: absolute;
+  	top: 85%;
+	left: 30%;
+	width: 20%;
+	height: 13%;
+	font-family:hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
+.a8{
+  	position: absolute;
+  	top: 60%;
+	left: 52%;
+	width: 15.5%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.a8:hover{
+  	position: absolute;
+  	top: 60%;
+	left: 52%;
+	width: 17%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
+.a9{
+  	position: absolute;
+  	top: 85%;
+	left: 73%;
+	width: 16.3%;
+	height: 13%;
+	font-family:hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.a9:hover{
+  	position: absolute;
+  	top: 85%;
+	left: 73%;
+	width: 18%;
+	height: 13%;
+	font-family:hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
+@font-face{
+	font-family: hola;
+	src: url(fu1.ttf);
+}
+a{
+	text-decoration: none;
+	color: black;
+}

@@ -1,0 +1,54 @@
+.e1{
+	position: absolute;
+  	top: 2%;
+  	left: 1%;
+  	width: 97%; 
+  	height: 110%; 
+	border: 5px solid black; 
+  	border-radius: 4%;
+  	background-image: radial-gradient( circle,  #87CEFA 30%, #1E90FF );
+}
+.e2{
+	position: absolute;
+  	text-shadow: 2px 3px 1px #6495ED;
+  	top: 6%;
+  	left: 35%;
+ 	height: 10%;
+ 	width: 55%;
+  	font-family:hola, cursive;
+  	font-size: 80px;
+}
+.e3{
+	position: absolute;
+  	top:90%;
+	left: 75%;
+	width: 17%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.e3:hover{
+	position: absolute;
+  	top: 90%;
+	left: 75%;
+	width: 20%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
+
+@font-face{
+	font-family: hola;
+	src: url(fu1.ttf);
+}
+a{
+	text-decoration: none;
+	color: black;
+}
