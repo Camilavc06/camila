@@ -43,6 +43,31 @@
 	border-radius: 35%;
 	font-size: 43px;
 }
+.b4{
+	position: absolute;
+  	top: 7%;
+	left: 75%;
+	width: 17%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.b4:hover{
+	position: absolute;
+  	top: 7%;
+	left: 75%;
+	width: 20%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
 @font-face{
 	font-family: hola;
 	src: url(fu1.ttf);
