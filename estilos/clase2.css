@@ -45,8 +45,8 @@
 }
 .b4{
 	position: absolute;
-  	top: 7%;
-	left: 75%;
+  	top: 20%;
+	left: 10%;
 	width: 17%;
 	height: 13%;
 	font-family: hola;
@@ -58,8 +58,8 @@
 }
 .b4:hover{
 	position: absolute;
-  	top: 7%;
-	left: 75%;
+  	top: 20%;
+	left: 10%;
 	width: 20%;
 	height: 13%;
 	font-family: hola;
