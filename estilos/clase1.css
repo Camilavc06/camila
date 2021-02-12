@@ -156,13 +156,6 @@
 	border-radius: 35%;
 	font-size: 43px;
 }
-	font-family:hola;
-	text-shadow: 2px 3px 1px #6495ED;
-	border: solid black 5px;
-	border-radius: 35%;
-	font-size: 43px;
-	transition: width 2s;
-}
 @font-face{
 	font-family: hola;
 	src: url(fu1.ttf);
