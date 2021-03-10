@@ -134,7 +134,57 @@
 .b7:hover{
 	position: absolute;
   	top: 90%;
-	left: 10%;
+	left: 35%;
+	width: 20%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
+.b8{
+	position: absolute;
+  	top: 30%;
+	left: 35%;
+	width: 17%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.b8:hover{
+	position: absolute;
+  	top: 30%;
+	left: 35%;
+	width: 20%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+}
+.b9{
+	position: absolute;
+  	top: 50%;
+	left: 35%;
+	width: 17%;
+	height: 13%;
+	font-family: hola;
+	text-shadow: 2px 3px 1px #6495ED;
+	border: solid black 5px;
+	border-radius: 35%;
+	font-size: 43px;
+	transition: width 2s;
+}
+.b9:hover{
+	position: absolute;
+  	top: 50%;
+	left: 35%;
 	width: 20%;
 	height: 13%;
 	font-family: hola;
